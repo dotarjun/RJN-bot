@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RJN-bot
 - 👀 I’m interested in Front end Web Development 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on HTML, CSS and MySQL project
+- 💞️ I’m looking to collaborate on HTML, CSS and MySQL projects
 - 📫 Reach me at Arjun#8000 on Discord or @arjunnsinghhh on Instagram 
 
 <!---
