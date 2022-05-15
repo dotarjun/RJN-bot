@@ -13,7 +13,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
-[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=RJN-bot&theme=blue-green)](https://github.com/RJN-bot/github-readme-stats) 
-[![Arjun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=RJN-bot&theme=blue-green)](https://github.com/RJN-bot/github-readme-streak-stats)
+[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=RJN-bot&theme=blue-green)](https://github.com/RJN-bot/github-readme-stats)[![Arjun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=RJN-bot&theme=blue-green)](https://github.com/RJN-bot/github-readme-streak-stats)
 
 [![Arjun's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RJN-bot&theme=blue-green)](https://github.com/RJN-bot/github-readme-stats)
