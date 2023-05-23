@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotarjun&show_icons=true&locale=en" alt="dotarjun" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aeuqobiqqa77jzxrpkz4jrpl2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31aeuqobiqqa77jzxrpkz4jrpl2q&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aeuqobiqqa77jzxrpkz4jrpl2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31aeuqobiqqa77jzxrpkz4jrpl2q&redirect=true)
