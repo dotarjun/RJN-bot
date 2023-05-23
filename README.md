@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js TypeScript, Tailwind**
 
-- 📝 I regularly write articles on [blog.arjunsingh.tech](blog.arjunsingh.tech)
+- 📝 I regularly write articles on [blog.arjunsingh.tech](https://blog.arjunsingh.tech)
 
 
 <h3 align="left">Connect with me:</h3>
