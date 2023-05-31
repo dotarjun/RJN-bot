@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dotarjun" target="blank"><img src="https://img.shields.io/twitter/follow/dotarjun?logo=twitter&style=for-the-badge" alt="dotarjun" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js TypeScript, Tailwind**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
 - 📝 I regularly write articles on [blog.arjunsingh.tech](https://blog.arjunsingh.tech)
 
