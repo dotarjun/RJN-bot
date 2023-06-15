@@ -6,9 +6,6 @@
   </a>
 </p>
 <br>
-# Some repos I have contributed to:
-
-
 
 
 - 👋 I'm a passionate React JS developer who enjoys contributing to open-source projects.
