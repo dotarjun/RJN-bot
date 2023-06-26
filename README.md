@@ -23,9 +23,11 @@
 
 <br>
 <h3>Check out my Portfolio Website by clicking the icon below</h3>
+<p>
 <a href="https://blog.arjunsingh.tech">
-<img src="https://github.com/dotarjun/dotarjun/assets/71163609/87f40ac5-5f5a-48ff-82e4-4d35979c902e" width="64" />
+  <img src="https://github.com/dotarjun/dotarjun/assets/71163609/87f40ac5-5f5a-48ff-82e4-4d35979c902e" width="64" />
 </a>
+</p>
 
 <h3> You can find me on here: </h3>
 <p>
