@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Arjun Singh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,next,astro,tailwind,mongodb,mysql,express,nodejs,vite,jest,figma,bash" />
@@ -8,15 +8,15 @@
 <br>
 
 
-- 👋 I'm a passionate React JS developer who enjoys contributing to open-source projects.
+- 👋 I'm a passionate Full stack developer who enjoys contributing to open-source projects.
 
 - 🎨 Besides my coding skills, I also have a knack for design, adding an artistic touch to my work.
 
-- 🌱 During my free time, you'll often find me practicing the guitar or honing my skills in MMA.
+- 🌱 During my free time, you'll often find me practicing the guitar or honing my skills in MMA or Rock Climbing.
 
 - 📌 I'm constantly driven by curiosity and love exploring various web development concepts.
 
-- 💭 Feel free to ask me anything related to front-end development.
+- 💭 Feel free to ask me anything related to Full Stack development.
 
 - 📝 I regularly write articles on [blog.arjunsingh.tech](https://blog.arjunsingh.tech)
 
