@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Arjun Singh</h1>
+<h1 align="center">Hi 👋,  I'm <a href="https://www.arjunsingh.tech">Arjun Singh</a></h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,8 +22,16 @@
 
 
 <br>
-<h3> You can find me here: </h3>
+<h3>Check out my Portfolio Website by clicking the icon below</h3>
+<a href="https://blog.arjunsingh.tech">
+<img src="https://github.com/dotarjun/dotarjun/assets/71163609/87f40ac5-5f5a-48ff-82e4-4d35979c902e" width="64" />
+</a>
+
+<h3> You can find me on here: </h3>
 <p>
+    <a href="https://blog.arjunsingh.tech">
+    <img src="https://github.com/dotarjun/dotarjun/assets/71163609/31a00092-6b4f-4f41-91bd-a228a40f8e01" width="48" />
+  </a>
   <a href="https://twitter.com/dotarjun">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
