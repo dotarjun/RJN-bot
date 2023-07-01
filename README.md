@@ -16,7 +16,7 @@
 
 🎨 Besides my coding skills, I also have a knack for design, adding an artistic touch to my work.
 
-🌱 During my free time, you'll often find me practicing the guitar or honing my skills in MMA.
+🌱 During my free time, you'll often find me practicing the Guitar or honing my skills in MMA.
 
 📌 I'm constantly driven by curiosity and love exploring various web development concepts.
 
