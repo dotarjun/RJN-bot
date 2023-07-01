@@ -10,25 +10,30 @@
 </p>
 <br>
 
+<div align="center">
 
-- 👋 I'm a passionate Full stack developer who enjoys contributing to open-source projects.
+👋 I'm a passionate Full stack developer who enjoys contributing to open-source projects.
 
-- 🎨 Besides my coding skills, I also have a knack for design, adding an artistic touch to my work.
+🎨 Besides my coding skills, I also have a knack for design, adding an artistic touch to my work.
 
-- 🌱 During my free time, you'll often find me practicing the guitar or honing my skills in MMA or Rock Climbing.
+🌱 During my free time, you'll often find me practicing the guitar or honing my skills in MMA or Rock Climbing.
 
-- 📌 I'm constantly driven by curiosity and love exploring various web development concepts.
+📌 I'm constantly driven by curiosity and love exploring various web development concepts.
 
-- 💭 Feel free to ask me anything related to Full Stack development.
+💭 Feel free to ask me anything related to Full Stack development.
 
-- 📝 I regularly write articles on [blog.arjunsingh.tech](https://blog.arjunsingh.tech)
+📝 I regularly write articles on [blog.arjunsingh.tech](https://blog.arjunsingh.tech)
+</div>
 
 
 <br>
+<div align="center">
 <h3>Check out my Portfolio Website 👇</h3>
 <h3><a href="https://www.arjunsingh.tech">www.arjunsingh.tech</a></h3>
+</div>
 <br>
 
+<div align="center">
 <h3> You can find me on here: </h3>
 <p>
     <a href="https://blog.arjunsingh.tech">
@@ -43,10 +48,10 @@
   <a href="https://www.linkedin.com/in/arjun-singh-a1a706189/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-<!--<a href="https://http://blog.arjunsingh.tech/">
-    <img src="https://skillicons.dev/icons?i=hashnode" />
-  </a>  -->
 </p>
+</div>
+
+<div align="center">
 <br>
 <h3> Currently streaming on Spotify: </h3>
 
@@ -55,3 +60,4 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31aeuqobiqqa77jzxrpkz4jrpl2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
   </a>
 </p>
+</div>
