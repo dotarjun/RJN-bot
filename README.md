@@ -13,6 +13,10 @@
 <div align="center">
 
 👋 I'm a passionate Full stack developer who enjoys contributing to open-source projects.
+ - Repos I have contributed to:
+   - NextAuth
+   - Devicons
+   - TheOdinProject    
 
 🎨 Besides my coding skills, I also have a knack for design, adding an artistic touch to my work.
 
