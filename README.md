@@ -13,18 +13,11 @@
 <div align="center">
 
 👋 I'm a passionate Full stack developer who enjoys contributing to open-source projects.
- - Repos I have contributed to:
-   - NextAuth
-   - Devicons
-   - TheOdinProject    
+ - Some Repos I have contributed to:
+   - [NextAuth](https://github.com/nextauthjs/next-auth/pull/7971)
+   - [Devicons](https://github.com/devicons/devicon/pull/1785)
+   - [TheOdinProject](https://github.com/TheOdinProject/css-exercises/pull/281)    
 
-🎨 Besides my coding skills, I also have a knack for design, adding an artistic touch to my work.
-
-🌱 During my free time, you'll often find me practicing the Guitar or honing my skills in MMA.
-
-📌 I'm constantly driven by curiosity and love exploring various web development concepts.
-
-💭 Feel free to ask me anything related to Full Stack development.
 
 📝 I regularly write articles on [blog.arjunsingh.tech](https://blog.arjunsingh.tech)
 </div>
