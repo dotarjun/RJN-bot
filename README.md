@@ -12,14 +12,22 @@
 
 <div align="center">
 
-👋 I'm a passionate Full stack developer who enjoys contributing to open-source projects.
- - Some Repos I have contributed to:
-   - [NextAuth](https://github.com/nextauthjs/next-auth/pull/7971)
-   - [Devicons](https://github.com/devicons/devicon/pull/1785)
-   - [TheOdinProject](https://github.com/TheOdinProject/css-exercises/pull/281)    
+<br>
+  <h3>Some OSS Repos I have contributed to:</h3>
+  
+   [NextAuth](https://github.com/nextauthjs/next-auth/pull/7971)
+   <br>
+   [Devicons](https://github.com/devicons/devicon/pull/1785)
+   <br>
+   [TheOdinProject](https://github.com/TheOdinProject/css-exercises/pull/281)    
+   <br>
 
 
-📝 I regularly write articles on [blog.arjunsingh.tech](https://blog.arjunsingh.tech)
+<h3>I regularly write articles on</h3>
+
+[blog.arjunsingh.tech](https://blog.arjunsingh.tech)
+
+
 </div>
 
 
