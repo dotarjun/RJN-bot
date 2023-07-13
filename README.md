@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,astro,tailwind" />
+    <img src="https://skillicons.dev/icons?i=next,astro,tailwind,react,html,css,js" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,express,nodejs,vite,jest,figma,bash" />
+    <img src="https://skillicons.dev/icons?i=prisma,mongodb,mysql,express,nodejs,jest,figma,bash" />
 
   </a>
 </p>
