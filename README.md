@@ -11,32 +11,29 @@
 <br>
 
 <div align="center">
+<h3>Check out my Portfolio Website 👇</h3>
+<h3><a href="https://www.arjunsingh.tech" target="_blank" rel="noopener noreferrer">www.arjunsingh.tech</a></h3>
+</div>
+
+<div align="center">
+<br>
+<h3>I regularly write articles on
+<a href="https://blog.arjunsingh.tech" target="_blank" rel="noopener noreferrer">My Blog</a></h3>
+
 
 <br>
   <h3>Some OSS Repos I have contributed to:</h3>
-  
-   [NextAuth](https://github.com/nextauthjs/next-auth/pull/7971)
+  <a href="https://github.com/nextauthjs/next-auth" target="_blank" rel="noopener noreferrer">NextAuth</a>
    <br>
-   [Devicons](https://github.com/devicons/devicon/pull/1785)
+     <a href="https://github.com/devicons/devicon" target="_blank" rel="noopener noreferrer">Devicons</a>
    <br>
-   [TheOdinProject](https://github.com/TheOdinProject/css-exercises/pull/281)    
+     <a href="https://github.com/TheOdinProject/css-exercises" target="_blank" rel="noopener noreferrer">TheOdinProject</a>
    <br>
-
-
-<h3>I regularly write articles on</h3>
-
-[blog.arjunsingh.tech](https://blog.arjunsingh.tech)
-
 
 </div>
+   <br>
 
 
-<br>
-<div align="center">
-<h3>Check out my Portfolio Website 👇</h3>
-<h3><a href="https://www.arjunsingh.tech">www.arjunsingh.tech</a></h3>
-</div>
-<br>
 
 <div align="center">
 <h3> You can find me on here: </h3>
