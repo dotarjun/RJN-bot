@@ -30,7 +30,7 @@
 <!-- <br> -->
      <p><a href="https://github.com/devicons/devicon" target="_blank" rel="noopener noreferrer">Devicons:</a> A repo which aims to gather all logos representing development languages and tools.</p>
 <!--    <br> -->
-     <p><a href="https://github.com/TheOdinProject/css-exercises" target="_blank" rel="noopener noreferrer">TheOdinProject:</a> The Odin Project (TOP) is an open-source curriculum for learning full-stack web development.</p>
+     <p><a href="https://github.com/TheOdinProject/css-exercises" target="_blank" rel="noopener noreferrer">TheOdinProject:</a> An open-source curriculum for learning full-stack web development.</p>
 <!--    <br> -->
 
 </div>
