@@ -25,6 +25,8 @@
   <h3>Some OSS Repos I have contributed to:</h3>
   <a href="https://github.com/nextauthjs/next-auth" target="_blank" rel="noopener noreferrer">NextAuth</a>
    <br>
+     <a href="https://github.com/openstatusHQ/openstatus" target="_blank" rel="noopener noreferrer">OpenStatus</a>
+<br>
      <a href="https://github.com/devicons/devicon" target="_blank" rel="noopener noreferrer">Devicons</a>
    <br>
      <a href="https://github.com/TheOdinProject/css-exercises" target="_blank" rel="noopener noreferrer">TheOdinProject</a>
