@@ -23,14 +23,15 @@
 
 <br>
   <h3>Some Repos I have contributed to:</h3>
+  <br>
   <p><a href="https://github.com/nextauthjs/next-auth" target="_blank" rel="noopener noreferrer">NextAuth:</a> A complete open source authentication solution for Next.js applications.</p>
-   <br>
+<!--    <br> -->
      <p><a href="https://github.com/openstatusHQ/openstatus" target="_blank" rel="noopener noreferrer">OpenStatus:</a> A free and open source status page and alerting system.</p>
-<br>
+<!-- <br> -->
      <p><a href="https://github.com/devicons/devicon" target="_blank" rel="noopener noreferrer">Devicons:</a> A repo which aims to gather all logos representing development languages and tools.</p>
-   <br>
+<!--    <br> -->
      <p><a href="https://github.com/TheOdinProject/css-exercises" target="_blank" rel="noopener noreferrer">TheOdinProject:</a> The Odin Project (TOP) is an open-source curriculum for learning full-stack web development.</p>
-   <br>
+<!--    <br> -->
 
 </div>
    <br>
