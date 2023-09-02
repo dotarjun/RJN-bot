@@ -24,6 +24,7 @@
 <br>
   <h3>Some Repos I have contributed to:</h3>
   <br>
+    <p><a href="https://github.com/withastro/astro" target="_blank" rel="noopener noreferrer">Astro:</a> The all-in-one web framework designed for speed.</p>
   <p><a href="https://github.com/nextauthjs/next-auth" target="_blank" rel="noopener noreferrer">NextAuth:</a> A complete open source authentication solution for Next.js applications.</p>
 <!--    <br> -->
      <p><a href="https://github.com/openstatusHQ/openstatus" target="_blank" rel="noopener noreferrer">OpenStatus:</a> A free and open source status page and alerting system.</p>
