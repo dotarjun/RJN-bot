@@ -1,5 +1,5 @@
 <h1 align="center">Hi,  I'm <a href="https://www.arjunsingh.tech">Arjun Singh</a></h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A Passionate Full Stack developer</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=next,astro,tailwind,react,ts,graphql" />
