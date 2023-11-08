@@ -10,15 +10,16 @@
 <br>
 
 <div align="center">
-<h3>My Contributions/Achievements 👇</h3>
+<h3>Take a look at my Contributions and Achievements 👇</h3>
   <div>
-      <h6 color="default">Hacktoberfest contributions shoutout by <a href="https://aiven.io/" target="_blank" rel="noopener noreferrer">Aiven.io</a> </h6>
+      <p>Hacktoberfest contributions shoutout by <a href="https://aiven.io/" target="_blank" rel="noopener noreferrer">Aiven.io</a> </p>
       <a href="https://twitter.com/webchick/status/1721595560489373749">
         <img src="https://github.com/dotarjun/dotarjun/assets/71163609/234a3943-df3d-430e-bb88-ebc80de7a10f" />
       </a>
   </div>
+  <br>
   <div>
-    <h6>Hitting <span style="font-size: 1rem;">10k</span> views on my <a href="https://blog.arjunsingh.tech" target="_blank" rel="noopener noreferrer">Blog</a> on <a href="https://aiven.io/" target="_blank" rel="noopener noreferrer">Hashnode</a> </h6>
+    <p>Hitting <span style="font-size: 1rem;">10k</span> views on my <a href="https://blog.arjunsingh.tech" target="_blank" rel="noopener noreferrer">Blog</a> on <a href="https://hashnode.com/onboard?next=/@dotarjun" target="_blank" rel="noopener noreferrer">Hashnode</a> </p>
       <a href="https://twitter.com/dotarjun/status/1699334138699092307">
         <img src="https://github.com/dotarjun/dotarjun/assets/71163609/e773f2db-5992-4462-b411-939589e1e5dd" />
       </a>
