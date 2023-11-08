@@ -5,7 +5,6 @@
     <img src="https://skillicons.dev/icons?i=next,astro,tailwind,react,ts,graphql" />
     <br>
     <img src="https://skillicons.dev/icons?i=prisma,mongodb,mysql,express,nodejs,jest,figma" />
-
   </a>
 </p>
 <br>
@@ -13,7 +12,7 @@
 <div align="center">
 <h3>My Contributions/Achievements 👇</h3>
   <div>
-      <h6>Hacktoberfest contributions shoutout by <a href="https://aiven.io/" target="_blank" rel="noopener noreferrer">Aiven.io</a> </h6>
+      <h6 color="default">Hacktoberfest contributions shoutout by <a href="https://aiven.io/" target="_blank" rel="noopener noreferrer">Aiven.io</a> </h6>
       <a href="https://twitter.com/webchick/status/1721595560489373749">
         <img src="https://github.com/dotarjun/dotarjun/assets/71163609/234a3943-df3d-430e-bb88-ebc80de7a10f" />
       </a>
