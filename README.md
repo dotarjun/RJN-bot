@@ -12,11 +12,20 @@
 
 <div align="center">
 <h3>My Contributions/Achievements 👇</h3>
-    <a href="https://twitter.com/webchick/status/1721595560489373749">
-    <img src="https://github.com/dotarjun/dotarjun/assets/71163609/234a3943-df3d-430e-bb88-ebc80de7a10f" />
-  </a>
-
+  <div>
+      <h6>Hacktoberfest contributions shoutout by  </h6>
+      <a href="https://twitter.com/webchick/status/1721595560489373749">
+        <img src="https://github.com/dotarjun/dotarjun/assets/71163609/234a3943-df3d-430e-bb88-ebc80de7a10f" />
+      </a>
+  </div>
+  <div>
+      <a href="https://twitter.com/dotarjun/status/1699334138699092307">
+        <img src="https://github.com/dotarjun/dotarjun/assets/71163609/e773f2db-5992-4462-b411-939589e1e5dd" />
+      </a>
+  </div>
 </div>
+
+
 
 <div align="center">
 <h3>Check out my Portfolio Website 👇</h3>
