@@ -19,6 +19,7 @@
       </a>
   </div>
   <div>
+    <h6>Hitting <span style="font-size: 1rem;">10k</span> views on my <a href="https://blog.arjunsingh.tech" target="_blank" rel="noopener noreferrer">Blog</a> on <a href="https://aiven.io/" target="_blank" rel="noopener noreferrer">Hashnode</a> </h6>
       <a href="https://twitter.com/dotarjun/status/1699334138699092307">
         <img src="https://github.com/dotarjun/dotarjun/assets/71163609/e773f2db-5992-4462-b411-939589e1e5dd" />
       </a>
