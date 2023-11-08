@@ -26,7 +26,7 @@
   </div>
 </div>
 
-
+<br>
 
 <div align="center">
 <h3>Check out my Portfolio Website 👇</h3>
