@@ -13,7 +13,7 @@
 <div align="center">
 <h3>My Contributions/Achievements 👇</h3>
   <div>
-      <h6>Hacktoberfest contributions shoutout by  </h6>
+      <h6>Hacktoberfest contributions shoutout by <a href="https://aiven.io/" target="_blank" rel="noopener noreferrer">Aiven.io</a> </h6>
       <a href="https://twitter.com/webchick/status/1721595560489373749">
         <img src="https://github.com/dotarjun/dotarjun/assets/71163609/234a3943-df3d-430e-bb88-ebc80de7a10f" />
       </a>
