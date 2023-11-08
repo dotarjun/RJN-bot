@@ -11,6 +11,14 @@
 <br>
 
 <div align="center">
+<h3>My Contributions/Achievements 👇</h3>
+    <a href="https://twitter.com/webchick/status/1721595560489373749">
+    <img src="https://github.com/dotarjun/dotarjun/assets/71163609/234a3943-df3d-430e-bb88-ebc80de7a10f" />
+  </a>
+
+</div>
+
+<div align="center">
 <h3>Check out my Portfolio Website 👇</h3>
 <h3><a href="https://www.arjunsingh.tech" target="_blank" rel="noopener noreferrer">www.arjunsingh.tech</a></h3>
 </div>
