@@ -35,7 +35,7 @@
 
 <div align="center">
 <br>
-<h3>I regularly write articles on my blog 👇</h3> 
+<h3>Learn Web Development and related concepts 👇</h3> 
 <h3><a href="https://blog.arjunsingh.tech" target="_blank" rel="noopener noreferrer">My Blog</a></h3>
 
 
