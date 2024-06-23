@@ -30,7 +30,7 @@
 
 <div align="center">
 <h3>Check out my Portfolio Website 👇</h3>
-<h3><a href="https://www.arjunsingh.tech" target="_blank" rel="noopener noreferrer">www.arjunsingh.tech</a></h3>
+<h3><a href="https://www.dotarjun.com" target="_blank" rel="noopener noreferrer">www.dotarjun.com</a></h3>
 </div>
 
 <div align="center">
